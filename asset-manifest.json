@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/frontend-thas/THA-5/Solution/Samir/calculator/static/css/main.4cec763c.chunk.css",
+    "main.js": "/frontend-thas/THA-5/Solution/Samir/calculator/static/js/main.57b2bb22.chunk.js",
+    "main.js.map": "/frontend-thas/THA-5/Solution/Samir/calculator/static/js/main.57b2bb22.chunk.js.map",
+    "runtime-main.js": "/frontend-thas/THA-5/Solution/Samir/calculator/static/js/runtime-main.24926616.js",
+    "runtime-main.js.map": "/frontend-thas/THA-5/Solution/Samir/calculator/static/js/runtime-main.24926616.js.map",
+    "static/js/2.c3633936.chunk.js": "/frontend-thas/THA-5/Solution/Samir/calculator/static/js/2.c3633936.chunk.js",
+    "static/js/2.c3633936.chunk.js.map": "/frontend-thas/THA-5/Solution/Samir/calculator/static/js/2.c3633936.chunk.js.map",
+    "static/js/3.59d4556c.chunk.js": "/frontend-thas/THA-5/Solution/Samir/calculator/static/js/3.59d4556c.chunk.js",
+    "static/js/3.59d4556c.chunk.js.map": "/frontend-thas/THA-5/Solution/Samir/calculator/static/js/3.59d4556c.chunk.js.map",
+    "index.html": "/frontend-thas/THA-5/Solution/Samir/calculator/index.html",
+    "static/css/main.4cec763c.chunk.css.map": "/frontend-thas/THA-5/Solution/Samir/calculator/static/css/main.4cec763c.chunk.css.map",
+    "static/js/2.c3633936.chunk.js.LICENSE.txt": "/frontend-thas/THA-5/Solution/Samir/calculator/static/js/2.c3633936.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/frontend-thas/THA-5/Solution/Samir/calculator/static/media/bgImg.afcc661c.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.24926616.js",
+    "static/js/2.c3633936.chunk.js",
+    "static/css/main.4cec763c.chunk.css",
+    "static/js/main.57b2bb22.chunk.js"
+  ]
+}
